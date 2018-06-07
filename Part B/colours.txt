@@ -1,0 +1,5 @@
+r red
+g green
+b blue
+p purple
+y yellow
